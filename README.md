@@ -3,16 +3,11 @@
     <h1>CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
     <!--<i>A collective list of free APIs for use in software and web development</i>-->
 </div>
-
-@@ -14,6 +14,7 @@
-
-  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/LICENSE)
-  ![GitHub language count](https://img.shields.io/github/languages/count/PRASAD-YEOLE/Virtual_File_System?color=g&label=Languages)
+  
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
   ![GitHub top language](https://img.shields.io/github/languages/top/PRASAD-YEOLE/Virtual_File_System?color=9cf)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PRASAD-YEOLE/Virtual_File_System)
   ![GitHub repo size](https://img.shields.io/github/repo-size/PRASAD-YEOLE/Virtual_File_System)
-@@ -34,27 +35,64 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
