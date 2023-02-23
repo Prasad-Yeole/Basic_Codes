@@ -1,14 +1,11 @@
-@@ -1,5 +1,5 @@
+
 <div align="center">
     <h1>CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
     <!--<i>A collective list of free APIs for use in software and web development</i>-->
 </div>
   
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/PRASAD-YEOLE/Virtual_File_System?color=9cf)
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PRASAD-YEOLE/Virtual_File_System)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/PRASAD-YEOLE/Virtual_File_System)
-
+  
 ![](https://i.imgur.com/waxVImv.png)
 
 # CUSTOMIZED VIRTUAL FILE SYSTEM
